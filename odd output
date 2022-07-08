@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main()
+{
+	int a = 1;
+	while(a <= 100)
+	{
+		if (a % 2)
+		{
+			printf("%d\n", a);
+			a++;
+		}
+		else
+		{
+			a++;
+		}
+	}
+	return 0;
+}
