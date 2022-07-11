@@ -1,0 +1,6 @@
+﻿  compare2.c
+D:\Code\study\compare2\compare2\compare2.c(22,12): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\Code\study\compare2\compare2\compare2.c(22,11): warning C4024: “compare”: 形参和实参 1 的类型不同
+D:\Code\study\compare2\compare2\compare2.c(22,15): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\Code\study\compare2\compare2\compare2.c(22,14): warning C4024: “compare”: 形参和实参 2 的类型不同
+  compare2.vcxproj -> D:\Code\study\compare2\x64\Debug\compare2.exe
