@@ -1,0 +1,3 @@
+﻿  welcome to my world!.c
+D:\Code\study\welcome to my world!\welcome to my world!\welcome to my world!.c(10,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  welcome to my world!.vcxproj -> D:\Code\study\welcome to my world!\x64\Debug\welcome to my world!.exe
