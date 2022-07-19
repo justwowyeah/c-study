@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{79bc0809-04e3-4268-947a-adf2782b965e}</ProjectGuid>
-    <RootNamespace>nineninetable</RootNamespace>
+    <ProjectGuid>{97ce8515-49d5-4e75-a64c-ae1b4290f744}</ProjectGuid>
+    <RootNamespace>timestable</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="nine nine table.c" />
+    <ClCompile Include="times table.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

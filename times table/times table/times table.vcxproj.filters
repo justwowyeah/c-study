@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="nine nine table.c">
+    <ClCompile Include="times table.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
