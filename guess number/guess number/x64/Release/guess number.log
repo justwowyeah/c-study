@@ -1,0 +1,9 @@
+﻿  guess number.c
+D:\Code\study\guess number\guess number\guess number.c(18,12): warning C4013: “rand”未定义；假设外部返回 int
+D:\Code\study\guess number\guess number\guess number.c(46,2): warning C4013: “srand”未定义；假设外部返回 int
+  正在生成代码
+  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  guess number.vcxproj -> D:\Code\study\guess number\x64\Release\guess number.exe

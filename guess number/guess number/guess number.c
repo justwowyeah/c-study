@@ -48,7 +48,7 @@ int main()
 	do
 	{
 		menu();
-		printf("请选择：");
+		printf("请输入数字选择，记得回车哦：");
 		scanf("%d", &input);
 
 		switch (input)
