@@ -13,7 +13,7 @@ int main(void)
 			count++;
 		}
 
-		a = a >> 1;
+		a >>= 1;
 	}
 
 	printf("%d", count);
