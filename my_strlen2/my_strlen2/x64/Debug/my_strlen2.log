@@ -1,0 +1,5 @@
+﻿  my_strlen2.c
+D:\Code\study\my_strlen2\my_strlen2\my_strlen2.c(12,20): warning C4133: “-”: 从“int *”到“char *”的类型不兼容
+D:\Code\study\my_strlen2\my_strlen2\my_strlen2.c(12,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\Code\study\my_strlen2\my_strlen2\my_strlen2.c(5,1): warning C4133: “初始化”: 从“char *”到“int *”的类型不兼容
+  my_strlen2.vcxproj -> D:\Code\study\my_strlen2\x64\Debug\my_strlen2.exe
