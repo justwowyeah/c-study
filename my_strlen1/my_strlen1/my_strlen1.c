@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int my_strlen(char* str)
+int my_strlen(char *str)
 {
 	int count = 0;
 
